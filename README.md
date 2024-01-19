@@ -9,3 +9,7 @@
 ```
 
 - Simple navigation file - **navigation.html**
+ 
+```
+<ul> <a> <nav>
+```
